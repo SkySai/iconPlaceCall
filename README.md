@@ -5,8 +5,10 @@ the list of units / IPs is defined in the exampleFile.txt file
 USAGE: 
 You can invoke this script in two ways
 
--./placeCall.sh <Password> <exampleFile.txt> <extension>
--./placeCall.sh <exampleFile.txt> <extension>
+./placeCall.sh <Password> <exampleFile.txt> <extension>
+  
+  
+./placeCall.sh <exampleFile.txt> <extension>
 
 Notes*
 Customer needs Linux machine
